@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User ingin melihat daftar message subscription dalam suatu project</description>
-   <name>TC_007</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>de7bdfed-3a92-4c63-bb93-0122af416f1e</testCaseGuid>
-</TestCaseEntity>

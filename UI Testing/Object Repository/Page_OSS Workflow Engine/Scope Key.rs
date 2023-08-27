@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Scope Key</name>
+   <tag></tag>
+   <elementGuidId>3214e1b0-8547-4820-b2fe-11b9425b9dd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='varTable']/tbody/tr/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>54f517b7-5cfd-4042-85fe-d6b738968a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 py-4</value>
+      <webElementGuid>ab69b4f8-f25e-4afa-8da1-7655918e7282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2251799814068063</value>
+      <webElementGuid>bdffb3ac-71d3-445c-8149-27035c42c531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;varTable&quot;)/tbody[1]/tr[@class=&quot;bg-white border-b text-base&quot;]/td[@class=&quot;px-6 py-4&quot;]</value>
+      <webElementGuid>86cd1818-0838-4e88-ac04-369b10f791aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='varTable']/tbody/tr/td[5]</value>
+      <webElementGuid>0d9efd45-55ec-466e-a48e-42e15eb9639f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make a request'])[1]/following::td[1]</value>
+      <webElementGuid>6f4490b5-9d4d-446c-a1ca-8aa5e8fd0ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='local'])[1]/following::td[2]</value>
+      <webElementGuid>c8460ec0-6e93-4b01-ba6b-0e13632d1df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='url'])[1]/preceding::td[2]</value>
+      <webElementGuid>7352e796-c0ad-4449-acb8-ef5e8fc67f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', '&quot;', 'https://catfact.ninja/fact', '&quot;', '')])[1]/preceding::td[3]</value>
+      <webElementGuid>9877d190-cb81-4fa8-8fd7-0b6509ecf152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2251799814068063']/parent::*</value>
+      <webElementGuid>72e14f59-d368-42f9-869b-c7cb9dc48afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>e13b5571-46d1-4ec2-9f5e-2241f90a5e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '2251799814068063' or . = '2251799814068063')]</value>
+      <webElementGuid>ddb347aa-7ff6-4315-9a30-f52f686b713d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji Sistem Berhasil dan Menampilkan Data Variabel</description>
+   <name>TC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>582ecaf3-2d21-4415-8896-70512fb46600</testCaseGuid>
+</TestCaseEntity>
