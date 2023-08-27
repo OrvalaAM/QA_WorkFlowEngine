@@ -3,10 +3,10 @@
    <description></description>
    <name>Workflow Engine</name>
    <tag></tag>
-   <UUID>fca72301-f36a-46ff-b74c-d84c9e8bf8fe</UUID>
+   <UUID>40a34e30-e51e-4606-81d2-9f359cc52138</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\orval\Documents\Kuliah\DBT\UI Testing\Workflow Engine\Workflow Engine.prj</projectFileLocation>
+   <projectFileLocation>D:\TEL U\.TELKOM DBT\Katalon\Workflow_Engine\Workflow Engine\Workflow Engine.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

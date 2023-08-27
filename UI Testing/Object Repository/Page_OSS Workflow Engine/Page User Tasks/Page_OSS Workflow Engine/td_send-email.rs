@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_send-email</name>
+   <tag></tag>
+   <elementGuidId>2bd6fa90-41bc-4ba6-ac8b-d4a6d4b626ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Created'])[1]/following::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>bba1a49a-174a-46df-935a-18453b1e5572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-b-2 font-semibold  py-3 </value>
+      <webElementGuid>8d199d6e-2a23-44c7-b77d-fc23188f20f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>send-email</value>
+      <webElementGuid>2b79f8d0-5147-4278-a6c2-166eef929f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_5f8f8a chakra-ui-light&quot;]/div[@class=&quot;bg-light-gray min-h-screen&quot;]/div[@class=&quot;p-5 mx-10 h-full-screen&quot;]/div[@class=&quot;mt-10&quot;]/div[@class=&quot;w-full bg-white p-10 rounded-lg drop-shadow-xl&quot;]/table[@class=&quot;w-full px-5 py-5&quot;]/tbody[@class=&quot;table-group-divider&quot;]/a[@class=&quot;table-row text-left hover:text-light-red hover:bg-light-gray&quot;]/td[@class=&quot;border-b-2 font-semibold  py-3&quot;]</value>
+      <webElementGuid>98e49d24-a642-446c-bb00-253d457411d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Created'])[1]/following::td[1]</value>
+      <webElementGuid>78d6091c-05bf-42b9-9833-9350784ac524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::td[1]</value>
+      <webElementGuid>8f430042-7b8e-456b-9be0-11538d9f5365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMPLETED'])[1]/preceding::td[1]</value>
+      <webElementGuid>bd333070-7cdf-47f2-b2b0-51da830b9d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='send-email'])[2]/preceding::td[3]</value>
+      <webElementGuid>04d2d2b5-b455-43c8-b604-986b3e03ed2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='send-email']/parent::*</value>
+      <webElementGuid>f4d7da7e-e05c-42a3-8797-9686428bfdd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>fde2c9bc-b78e-48c3-8b88-8e5e6df32fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'send-email' or . = 'send-email')]</value>
+      <webElementGuid>1f6f1d78-7b2b-49fa-928b-1fb1ee118d24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

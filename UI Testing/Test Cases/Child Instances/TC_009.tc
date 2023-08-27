@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User ingin melihat daftar Child Instances dalam suatu project</description>
-   <name>TC_009</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>1530ec26-aae6-4b5e-a868-fbb069e0d38b</testCaseGuid>
-</TestCaseEntity>
