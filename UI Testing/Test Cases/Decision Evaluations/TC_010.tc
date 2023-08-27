@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User ingin melihat daftar Decision Evaluations dalam suatu project</description>
+   <name>TC_010</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f802581e-c508-4864-a23c-e0060bad37db</testCaseGuid>
+</TestCaseEntity>
