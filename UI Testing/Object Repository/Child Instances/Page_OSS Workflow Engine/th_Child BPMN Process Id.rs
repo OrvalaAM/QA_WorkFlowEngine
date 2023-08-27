@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Child BPMN Process Id</name>
+   <tag></tag>
+   <elementGuidId>8531b392-ca66-4061-b93e-bbbfea19dd35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabs-:r0:--tabpanel-7']/div/table/thead/tr/th[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>5f72e53a-b3dc-4687-8be9-5b2efafc8009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>0b9a32ab-6f83-4181-b5fd-bcf88aa30fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 py-3</value>
+      <webElementGuid>69bf2e39-befc-44d9-9d4a-dc0d1e235930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Child BPMN Process Id</value>
+      <webElementGuid>f071823a-cc6d-4194-99f9-bb27333cc279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs-:r0:--tabpanel-7&quot;)/div[@class=&quot;relative overflow-x-auto&quot;]/table[@class=&quot;w-full text-sm text-left&quot;]/thead[@class=&quot;text-base border-b-4 border-light-red&quot;]/tr[1]/th[@class=&quot;px-6 py-3&quot;]</value>
+      <webElementGuid>3d8fc7d8-bb1c-4ffa-8f44-9c11388b508a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabs-:r0:--tabpanel-7']/div/table/thead/tr/th[3]</value>
+      <webElementGuid>6f7ae371-f28b-4990-82ea-11d80c60fcfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child Instance Key'])[1]/following::th[1]</value>
+      <webElementGuid>31661c90-2e3d-406d-9f3c-3a5b89a9c595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[8]/following::th[2]</value>
+      <webElementGuid>0dfffd07-5848-4009-9214-74897436a0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Element'])[7]/preceding::th[1]</value>
+      <webElementGuid>b95ec39c-6988-42f7-ad28-5857d99afe33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Element Instance Key'])[7]/preceding::th[2]</value>
+      <webElementGuid>d7bace33-83f8-43df-961d-bff5d3d1d80a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Child BPMN Process Id']/parent::*</value>
+      <webElementGuid>c02b7804-18a0-4a6a-b733-aa283c525b1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/table/thead/tr/th[3]</value>
+      <webElementGuid>70f437d2-40e9-4818-99c3-894e8feb2619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Child BPMN Process Id' or . = 'Child BPMN Process Id')]</value>
+      <webElementGuid>3aaaa25a-17fe-499b-ab9f-da861fca09a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

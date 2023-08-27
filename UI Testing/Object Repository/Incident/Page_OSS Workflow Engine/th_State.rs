@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_State</name>
+   <tag></tag>
+   <elementGuidId>e3f870cf-76b9-477f-9d38-407bba6aca89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabs-:r0:--tabpanel-4']/div/table/thead/tr/th[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>c211f5be-21ef-45a7-a245-ddbb6fcf1655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>6e15fcc8-9d2d-4046-99c3-201775e21e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 py-3</value>
+      <webElementGuid>03d4302c-439c-40ba-8611-d27af5202cf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>State</value>
+      <webElementGuid>428c5540-96df-49ef-bd6f-e811f7220747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs-:r0:--tabpanel-4&quot;)/div[@class=&quot;relative overflow-x-auto&quot;]/table[@class=&quot;w-full text-sm text-left&quot;]/thead[@class=&quot;text-base border-b-4 border-light-red&quot;]/tr[1]/th[@class=&quot;px-6 py-3&quot;]</value>
+      <webElementGuid>d68c40ac-5977-4019-b0a9-d0f45802d76f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabs-:r0:--tabpanel-4']/div/table/thead/tr/th[7]</value>
+      <webElementGuid>ff43968a-6bf6-4dc8-8887-1c4326fb1d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Element Instance Key'])[4]/following::th[1]</value>
+      <webElementGuid>8c2f6a65-f8ae-4d81-8bcd-938ac54c943a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Element'])[4]/following::th[2]</value>
+      <webElementGuid>d834281f-11ae-4b72-a622-f71fccd72b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='smartphones'])[21]/preceding::th[2]</value>
+      <webElementGuid>dd93a5e2-b778-403b-9b7a-455bc8be9b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple'])[13]/preceding::th[2]</value>
+      <webElementGuid>9d9177d0-3527-4a76-a10f-3dc92b82b7b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/table/thead/tr/th[7]</value>
+      <webElementGuid>4f78cf3a-0062-4bbf-a12b-3a2b86858dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'State' or . = 'State')]</value>
+      <webElementGuid>bbefe7bf-d6fc-495b-ab7a-b18aff8f7e82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

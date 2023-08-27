@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Element</name>
+   <tag></tag>
+   <elementGuidId>087b6df5-a20e-4f01-ac9d-8f299bd7fdd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabs-:r0:--tabpanel-4']/div/table/thead/tr/th[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>1e91153a-441d-47ba-97c0-c4ccbb1cec4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>5a6a6503-5310-4050-ac21-958f6974b60c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 py-3</value>
+      <webElementGuid>d3e5a178-cc6d-4c11-aac6-8e2a4c994383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Element</value>
+      <webElementGuid>5265458d-db05-4a6c-8d72-d108e95d6e87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs-:r0:--tabpanel-4&quot;)/div[@class=&quot;relative overflow-x-auto&quot;]/table[@class=&quot;w-full text-sm text-left&quot;]/thead[@class=&quot;text-base border-b-4 border-light-red&quot;]/tr[1]/th[@class=&quot;px-6 py-3&quot;]</value>
+      <webElementGuid>7e691883-d114-44f0-8329-d15b61fc5b77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabs-:r0:--tabpanel-4']/div/table/thead/tr/th[5]</value>
+      <webElementGuid>e2ab506f-6540-4e4e-8918-40d850d2a699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error Message'])[1]/following::th[1]</value>
+      <webElementGuid>a726f954-4b04-430f-a4d2-fb0eab4f5cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error Type'])[1]/following::th[2]</value>
+      <webElementGuid>2f70ec65-32cf-4b7d-b356-af4643b14bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Element Instance Key'])[4]/preceding::th[1]</value>
+      <webElementGuid>febb1a6d-e18a-41fe-ac25-685d42b83cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[4]/preceding::th[2]</value>
+      <webElementGuid>cb330b10-1fd8-4f44-ab1e-8459e844c5b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/table/thead/tr/th[5]</value>
+      <webElementGuid>28a6b5e8-8c51-415f-951d-0c5d9a3359dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Element' or . = 'Element')]</value>
+      <webElementGuid>63073dd5-32b4-45a8-8551-cd4ea1e08154</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

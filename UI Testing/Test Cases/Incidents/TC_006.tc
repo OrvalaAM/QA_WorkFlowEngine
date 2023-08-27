@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User ingin melihat insiden yang terjadi dalam suatu project</description>
+   <name>TC_006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c65bf6a4-988b-4b6d-b8b5-9a5ee4d1ff92</testCaseGuid>
+</TestCaseEntity>
