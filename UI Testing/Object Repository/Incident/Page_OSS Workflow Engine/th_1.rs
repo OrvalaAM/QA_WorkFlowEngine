@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_1</name>
+   <tag></tag>
+   <elementGuidId>b2a9771b-1531-4f17-9c1f-625ca3f63017</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabs-:r0:--tabpanel-4']/div/table/tbody/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>0abe8a0b-240c-4d8f-9f2f-b45dc11dec32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>18bab682-0485-4bdc-8128-22e0daadd1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 py-4 font-medium text-gray-900 whitespace-nowrap </value>
+      <webElementGuid>7d798cbf-e134-4804-af10-d93e014fd81b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>a099e21a-c006-474b-80ee-503a4bf944be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs-:r0:--tabpanel-4&quot;)/div[@class=&quot;relative overflow-x-auto&quot;]/table[@class=&quot;w-full text-sm text-left&quot;]/tbody[1]/tr[@class=&quot;bg-white border-b text-base&quot;]/th[@class=&quot;px-6 py-4 font-medium text-gray-900 whitespace-nowrap&quot;]</value>
+      <webElementGuid>ff491319-2c51-42cd-bb3d-43fa3d7010e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabs-:r0:--tabpanel-4']/div/table/tbody/tr/th</value>
+      <webElementGuid>8fe653d3-49a2-4780-9d7a-d14422360f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[4]/following::th[1]</value>
+      <webElementGuid>a2575bd6-b3e1-444d-b0ee-afbf9c4721f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Element Instance Key'])[4]/following::th[2]</value>
+      <webElementGuid>73e6119d-9fb2-41b5-a071-e8a5059e309d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='smartphones'])[21]/preceding::th[1]</value>
+      <webElementGuid>abf1a72c-223e-42c6-bd67-8acca8a80736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple'])[13]/preceding::th[1]</value>
+      <webElementGuid>2cdcc9ca-f211-416c-ab8d-39de8acecc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/table/tbody/tr/th</value>
+      <webElementGuid>d0ea045f-0665-4aa9-a169-f74e735408d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = '1' or . = '1')]</value>
+      <webElementGuid>862e2d2f-9849-4c66-b290-6705e658ee8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
